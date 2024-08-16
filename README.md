@@ -88,3 +88,10 @@ Evaluate the performance of both Amazon Fulfillment and Merchant Fulfillment cha
 Concentrate marketing efforts in high-performing regions such as Karnataka, Telangana, and Maharashtra. Analyze sales patterns to identify peak seasons and align promotional activities to capitalize on these periods.
 
 # By implementing these recommendations, the business can enhance its overall sales performance, improve operational efficiency, and effectively target key market segments.
+
+# Final Dashboard View 
+
+![Screenshot 2024-08-17 014611](https://github.com/user-attachments/assets/e97f6164-d03a-4c0f-9356-959d8b5d85fc)
+
+# Correlation Analysis 
+![Screenshot 2024-08-17 014623](https://github.com/user-attachments/assets/9afe918c-d8ec-48e3-b3f0-693f01e2903e)
