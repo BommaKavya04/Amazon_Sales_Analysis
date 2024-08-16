@@ -95,3 +95,20 @@ Concentrate marketing efforts in high-performing regions such as Karnataka, Tela
 
 # Correlation Analysis 
 ![Screenshot 2024-08-17 014623](https://github.com/user-attachments/assets/9afe918c-d8ec-48e3-b3f0-693f01e2903e)
+
+# Tool tip with top 5 cities and states that place highest orders 
+![Screenshot 2024-08-17 005802](https://github.com/user-attachments/assets/ff3c6746-9f64-4077-a3c2-4b0107c9dcf5)
+
+# Shipping type Graph
+![Screenshot 2024-08-17 010954](https://github.com/user-attachments/assets/6397eb5e-053e-4c47-a1a7-ed52fd21b665)
+
+# Category and total orders placed 
+![Screenshot 2024-08-17 004820](https://github.com/user-attachments/assets/49db0cb1-3901-496f-beae-2c67bb0f91a7)
+
+# Percentage of orders placed by each category 
+![Screenshot 2024-08-17 005137](https://github.com/user-attachments/assets/a0841d66-db1a-42dc-a4b0-abfc1949ac76)
+
+# overall sales analysis over time 
+![Screenshot 2024-08-17 005459](https://github.com/user-attachments/assets/53a55521-eb57-4daa-860c-26f963a9a90c)
+
+
