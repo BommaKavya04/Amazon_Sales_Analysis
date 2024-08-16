@@ -97,18 +97,30 @@ Concentrate marketing efforts in high-performing regions such as Karnataka, Tela
 ![Screenshot 2024-08-17 014623](https://github.com/user-attachments/assets/9afe918c-d8ec-48e3-b3f0-693f01e2903e)
 
 # Tool tip with top 5 cities and states that place highest orders 
-![Screenshot 2024-08-17 005802](https://github.com/user-attachments/assets/ff3c6746-9f64-4077-a3c2-4b0107c9dcf5)
+![Screenshot 2024-08-17 021832](https://github.com/user-attachments/assets/d8259140-c801-489c-95bd-b27c171885c8)
+
 
 # Shipping type Graph
-![Screenshot 2024-08-17 010954](https://github.com/user-attachments/assets/6397eb5e-053e-4c47-a1a7-ed52fd21b665)
+![Screenshot 2024-08-17 021758](https://github.com/user-attachments/assets/bd598d77-6463-4e1f-9e0f-4d55134081a4)
+
 
 # Category and total orders placed 
-![Screenshot 2024-08-17 004820](https://github.com/user-attachments/assets/49db0cb1-3901-496f-beae-2c67bb0f91a7)
+![Screenshot 2024-08-17 021822](https://github.com/user-attachments/assets/9a2ff033-aab3-4695-99bf-35d7c50d4845)
 
 # Percentage of orders placed by each category 
-![Screenshot 2024-08-17 005137](https://github.com/user-attachments/assets/a0841d66-db1a-42dc-a4b0-abfc1949ac76)
+![Screenshot 2024-08-17 021717](https://github.com/user-attachments/assets/9469f7b3-4913-49d4-8632-5f14f6beb1fb)
 
 # overall sales analysis over time 
-![Screenshot 2024-08-17 005459](https://github.com/user-attachments/assets/53a55521-eb57-4daa-860c-26f963a9a90c)
+![Screenshot 2024-08-17 021810](https://github.com/user-attachments/assets/260262fb-8054-407a-b5a6-632d6e6feec4)
+
+# Courier Status by Category 
+![Screenshot 2024-08-17 021746](https://github.com/user-attachments/assets/5a601c03-e085-41df-94eb-0426bd61a036)
+
+# Total order under B2b by category
+![Screenshot 2024-08-17 021731](https://github.com/user-attachments/assets/d5c73d3b-6c93-4c6b-a513-5bc073a943df)
+
+
+
+
 
 
