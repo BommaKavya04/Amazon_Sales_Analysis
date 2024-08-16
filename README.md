@@ -91,7 +91,7 @@ Concentrate marketing efforts in high-performing regions such as Karnataka, Tela
 
 # Final Dashboard View 
 
-![Screenshot 2024-08-17 014611](https://github.com/user-attachments/assets/e97f6164-d03a-4c0f-9356-959d8b5d85fc)
+![Screenshot 2024-08-17 022631](https://github.com/user-attachments/assets/dbc38308-1934-41e2-bb82-ae6e1dc0b129)
 
 # Correlation Analysis 
 ![Screenshot 2024-08-17 014623](https://github.com/user-attachments/assets/9afe918c-d8ec-48e3-b3f0-693f01e2903e)
